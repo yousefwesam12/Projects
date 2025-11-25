@@ -1,0 +1,3 @@
+/Users/yousefwesam398gmail.com/Desktop/ Bank 1/cmake-build-debug/CMakeFiles/_Bank_1.dir
+/Users/yousefwesam398gmail.com/Desktop/ Bank 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yousefwesam398gmail.com/Desktop/ Bank 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

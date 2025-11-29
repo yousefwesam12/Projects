@@ -1,3 +1,0 @@
-/Users/yousefwesam398gmail.com/الكورس التامن/Leap Year/cmake-build-debug/CMakeFiles/Leap_Year.dir
-/Users/yousefwesam398gmail.com/الكورس التامن/Leap Year/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/yousefwesam398gmail.com/الكورس التامن/Leap Year/cmake-build-debug/CMakeFiles/rebuild_cache.dir
